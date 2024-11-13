@@ -1,0 +1,2 @@
+# automation_class_resources
+automation_class_resources
